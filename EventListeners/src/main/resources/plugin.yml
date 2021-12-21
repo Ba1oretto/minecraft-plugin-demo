@@ -1,0 +1,4 @@
+name: EventListeners
+version: '${project.version}'
+main: com.plugins.eventlisteners.EventListeners
+api-version: 1.17
