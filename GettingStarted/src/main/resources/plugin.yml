@@ -1,0 +1,4 @@
+name: GettingStarted
+version: '${project.version}'
+main: com.plugins.gettingstarted.GettingStarted
+api-version: 1.17
