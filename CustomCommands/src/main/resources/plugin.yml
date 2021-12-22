@@ -6,3 +6,10 @@ commands:
   die:
     description: An easy way to kill your self
     usage: /<command>
+  god:
+    description: Make you come invulnerable
+    usage: /<command>
+    aliases: [king, wtf]
+  feed:
+    description: Feed yourself
+    usage: /<commnad>
