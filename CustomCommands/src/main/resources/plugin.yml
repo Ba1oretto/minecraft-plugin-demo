@@ -1,0 +1,8 @@
+name: CustomCommands
+version: '${project.version}'
+main: com.plugins.customcommands.CustomCommands
+api-version: 1.17
+commands:
+  die:
+    description: An easy way to kill your self
+    usage: /<command>
