@@ -23,7 +23,6 @@ public class DeathListener implements Listener {
             public void run() {
                 System.out.println("测试延迟运行");
             }
-//        }.runTaskLater(InstanceAccess.getPlugin(), 20L);
         }.runTaskLater(instanceAccess, 20L);
     }
 }
