@@ -1,0 +1,11 @@
+name: Configurations
+version: '${project.version}'
+main: com.plugins.configurations.Configurations
+api-version: 1.17
+commands:
+  getConfig:
+    description: show you the config content
+    usage: /<commnad>
+  setFoodName:
+    description: set the food name in config
+    usage: /<commnad>
