@@ -2,6 +2,7 @@ package com.plugins.customcommands;
 
 import com.plugins.customcommands.commands.FeedCommand;
 import com.plugins.customcommands.commands.GodCommand;
+import com.plugins.customcommands.events.PlayerMoveEvent;
 import org.bukkit.ChatColor;
 import org.bukkit.command.BlockCommandSender;
 import org.bukkit.command.Command;
@@ -18,6 +19,7 @@ public final class CustomCommands extends JavaPlugin {
         // Plugin startup logic
         getCommand("god").setExecutor(new GodCommand());
         getCommand("feed").setExecutor(new FeedCommand());
+        getServer().getPluginManager().registerEvents(new PlayerMoveEvent(), this);
     }
 
     @Override
