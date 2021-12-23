@@ -1,0 +1,5 @@
+name: InstanceAccess
+version: '${project.version}'
+main: com.plugins.instanceaccess.InstanceAccess
+api-version: 1.17
+author: baioretto
