@@ -1,0 +1,5 @@
+name: Entities
+version: '${project.version}'
+main: com.plugins.entities.Entities
+api-version: 1.17
+author: baioretto
