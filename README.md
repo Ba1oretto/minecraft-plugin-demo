@@ -27,3 +27,4 @@
 > 9. #### [fly style](/FlyStyle)
 > 10. #### [teleport bow](/TeleportBow)
 > 11. #### [entities](/Entities)
+> 12. #### [armor stands](/ArmorStands)
