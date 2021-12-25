@@ -1,4 +1,4 @@
-# A minecraft plugin tutorial instance
+# <div align="center">✨A minecraft plugin tutorial instance✨</div>
 
 <p align="center">
 <img alt="Code Quality" src="https://img.shields.io/codefactor/grade/github/Ba1oretto/MinecraftPlugins/plugins?style=plastic">
