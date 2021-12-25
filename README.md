@@ -10,12 +10,15 @@
 </p>
 
 ![](show.jpg)
-## List of module
-#### [1. getting started](/GettingStarted)
-#### [2. event listener](/EventListeners)
-#### [3. join leave message](/JoinLeaveMessage)
-#### [4. custom command](/CustomCommands)
-#### [5. command arguments](/CommandArguments)
-#### [6. configuration](/Configurations)
-#### [7. instance access](/InstanceAccess)
-#### [8. vault inventory](/VaultInventory)
+
+> ## List of modules
+> 1. #### [getting started](/GettingStarted)
+> 2. #### [event listener](/EventListeners)
+> 3. #### [join leave message](/JoinLeaveMessage)
+> 4. #### [custom command](/CustomCommands)
+> 5. #### [command arguments](/CommandArguments)
+> 6. #### [configuration](/Configurations)
+> 7. #### [instance access](/InstanceAccess)
+> 8. #### [vault inventory](/VaultInventory)
+> 9. #### [fly style](/FlyStyle)
+> 10. #### [teleport bow](/TeleportBow)
