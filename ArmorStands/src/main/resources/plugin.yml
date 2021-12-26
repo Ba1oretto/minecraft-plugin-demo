@@ -1,0 +1,9 @@
+name: ArmorStands
+version: '${project.version}'
+main: com.plugins.armorstands.ArmorStands
+api-version: 1.17
+author: baioretto
+commands:
+  spawnArmorStand:
+    description: Spawn an armor stand in front of you
+    usage: /<command>
