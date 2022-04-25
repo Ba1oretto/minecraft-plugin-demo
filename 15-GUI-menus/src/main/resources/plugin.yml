@@ -1,0 +1,7 @@
+name: 15-GUI-menus
+version: '${version}'
+main: minecraft.demo.guimenus.GUIMenus
+api-version: 1.18
+commands:
+  gui:
+    description: Open a GUI.

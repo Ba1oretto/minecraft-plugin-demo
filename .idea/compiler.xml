@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="9-5-spawn-plugin" target="17" />
+      <module name="9-5-spawn-plugin.main" target="17" />
+      <module name="9-5-spawn-plugin.test" target="17" />
+      <module name="9.5-spawn-plugin" target="17" />
+      <module name="9.5-spawn-plugin.main" target="17" />
+      <module name="9.5-spawn-plugin.test" target="17" />
+      <module name="CustomUtils.main" target="17" />
+      <module name="CustomUtils.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

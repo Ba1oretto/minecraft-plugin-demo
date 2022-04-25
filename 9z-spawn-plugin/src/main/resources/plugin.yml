@@ -1,0 +1,9 @@
+name: 9z-spawn-plugin
+version: '${version}'
+main: minecraft.demo.spawnplugin.SpawnPlugin
+api-version: 1.18
+commands:
+  setspawn:
+    description: Set the server spawn point.
+  spawn:
+    description: Spawns you at the spawn point

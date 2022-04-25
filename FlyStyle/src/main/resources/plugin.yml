@@ -1,9 +1,0 @@
-name: FlyStyle
-version: '${project.version}'
-main: com.plugins.flystyle.FlyStyle
-api-version: 1.17
-author: baioretto
-commands:
-  fly:
-    description: A command allows you to fly like a bird
-    usage: /<command>

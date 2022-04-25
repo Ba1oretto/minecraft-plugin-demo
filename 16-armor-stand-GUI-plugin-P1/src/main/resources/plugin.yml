@@ -1,0 +1,10 @@
+name: 16-armor-stand-GUI-plugin-P1
+version: '${version}'
+main: minecraft.demo.armorstandguipluginp1.ArmorStandGUIPluginP1
+api-version: 1.18
+commands:
+  armorstand:
+    description: Create a armor stand.
+    usage: /<command>
+    aliases:
+      - as

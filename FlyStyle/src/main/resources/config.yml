@@ -1,5 +1,0 @@
-self-turn-on: '&bYou can fly, Be free!'
-self-turn-off: '&eYou can not fly anymore.'
-turn-on: '&b is being allowed to fly.'
-turn-off: '&e is no longer be allowed to fly.'
-on-miss: '&cThe player does not exist.'

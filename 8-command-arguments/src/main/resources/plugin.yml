@@ -1,0 +1,7 @@
+name: 8-command-arguments
+version: '${version}'
+main: minecraft.demo.commandarguments.CommandArguments
+api-version: 1.18
+commands:
+  repeat:
+    description: repeat stuff back to you

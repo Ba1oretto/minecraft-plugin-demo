@@ -1,0 +1,7 @@
+name: 10z-Cooldowns
+version: '${version}'
+main: minecraft.demo.cooldowns.Cooldowns
+api-version: 1.18
+commands:
+  fartcooldown:
+    description: Oopsies i did a stinky

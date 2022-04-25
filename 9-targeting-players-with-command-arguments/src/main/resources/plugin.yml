@@ -1,0 +1,7 @@
+name: 9-targeting-players-with-command-arguments
+version: '${version}'
+main: minecraft.demo.targetingplayerswithcommandarguments.TargetingPlayersWithCommandArguments
+api-version: 1.18
+commands:
+  fart:
+    description: fart someone

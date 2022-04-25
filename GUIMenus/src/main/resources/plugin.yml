@@ -1,5 +1,0 @@
-name: GUIMenus
-version: '${project.version}'
-main: com.plugins.guimenus.GUIMenus
-api-version: 1.18
-author: baioretto

@@ -1,0 +1,7 @@
+name: CustomUtils
+version: '${version}'
+main: minecraft.demo.customutils.CustomUtils
+api-version: 1.18
+commands:
+  reload:
+    description: Reload the server!

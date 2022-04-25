@@ -1,0 +1,7 @@
+name: 10-inventories-and-items
+version: '${version}'
+main: minecraft.demo.inventoriesanditems.InventoriesAndItems
+api-version: 1.18
+commands:
+  menu:
+    description: Open the inventory menu
