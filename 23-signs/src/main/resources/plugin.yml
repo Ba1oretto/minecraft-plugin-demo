@@ -1,0 +1,7 @@
+name: 23-signs
+version: '${version}'
+main: minecraft.demo.signs.Signs
+api-version: 1.18
+commands:
+  sign:
+    description: Spawns a sign
