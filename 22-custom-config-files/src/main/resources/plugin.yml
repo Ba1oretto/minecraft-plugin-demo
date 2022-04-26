@@ -1,0 +1,9 @@
+name: 22-custom-config-files
+version: '${version}'
+main: minecraft.demo.customconfigfiles.CustomConfigFiles
+api-version: 1.18
+commands:
+  message:
+    description: Send a message from the custom config
+  preload:
+    description: Reloads the config for the plugin
