@@ -40,6 +40,42 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/17-armor-stand-GUI-plugin-P2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/17-armor-stand-GUI-plugin-P2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/18-armor-stand-GUI-plugin-P3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/18-armor-stand-GUI-plugin-P3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/19-armor-stand-GUI-plugin-P4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/19-armor-stand-GUI-plugin-P4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/21-holograms" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/21-holograms" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
