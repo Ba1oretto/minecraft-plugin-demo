@@ -1,0 +1,9 @@
+name: 26-randomTP-plugin
+version: '${version}'
+main: minecraft.demo.randomtpplugin.RandomTPPlugin
+api-version: 1.18
+commands:
+  26-reload:
+    description: Reload the Custom Config File
+  26-randomTP:
+    description: Random TP
