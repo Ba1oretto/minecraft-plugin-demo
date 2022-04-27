@@ -1,0 +1,4 @@
+name: 30-title-packets
+version: '${version}'
+main: minecraft.demo.titlepackets.TitlePackets
+api-version: 1.18
