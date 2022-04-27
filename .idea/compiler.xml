@@ -8,6 +8,8 @@
       <module name="9.5-spawn-plugin" target="17" />
       <module name="9.5-spawn-plugin.main" target="17" />
       <module name="9.5-spawn-plugin.test" target="17" />
+      <module name="custom-utils.main" target="17" />
+      <module name="custom-utils.test" target="17" />
       <module name="CustomUtils.main" target="17" />
       <module name="CustomUtils.test" target="17" />
     </bytecodeTargetLevel>

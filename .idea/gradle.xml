@@ -5,6 +5,15 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/0-custom-utils" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/0-custom-utils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/10-inventories-and-items" />
         <option name="modules">
           <set>
@@ -132,15 +141,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/9z-spawn-plugin" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/custom-utils" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/custom-utils" />
           </set>
         </option>
       </GradleProjectSettings>

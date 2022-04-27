@@ -7,6 +7,7 @@
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/0-custom-utils" />
     <file type="web" url="file://$PROJECT_DIR$/10-inventories-and-items" />
     <file type="web" url="file://$PROJECT_DIR$/10z-Cooldowns" />
     <file type="web" url="file://$PROJECT_DIR$/15-GUI-menus" />
@@ -23,7 +24,6 @@
     <file type="web" url="file://$PROJECT_DIR$/9-targeting-players-with-command-arguments" />
     <file type="web" url="file://$PROJECT_DIR$/9.5-spawn-plugin" />
     <file type="web" url="file://$PROJECT_DIR$/9z-spawn-plugin" />
-    <file type="web" url="file://$PROJECT_DIR$/custom-utils" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
