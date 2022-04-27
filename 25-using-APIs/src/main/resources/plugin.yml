@@ -1,0 +1,5 @@
+name: 25-using-APIs
+version: '${version}'
+main: minecraft.demo.usingapis.UsingAPIs
+api-version: 1.18
+depend: [PlaceholderAPI]
