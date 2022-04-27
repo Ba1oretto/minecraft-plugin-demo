@@ -1,0 +1,7 @@
+name: 24-ban-GUI-plugin
+version: '${version}'
+main: minecraft.demo.banguiplugin.BanGUIPlugin
+api-version: 1.18
+commands:
+  bangui:
+    description: Opens the Ban GUI
