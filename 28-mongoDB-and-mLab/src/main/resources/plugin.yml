@@ -1,0 +1,4 @@
+name: 28-mongoDB-and-mLab
+version: '${version}'
+main: minecraft.demo.mongodbandmlab.MongoDBAndMLab
+api-version: 1.18
