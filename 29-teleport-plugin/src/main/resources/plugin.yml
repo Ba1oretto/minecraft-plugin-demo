@@ -1,0 +1,9 @@
+name: 29-teleport-plugin
+version: '${version}'
+main: minecraft.demo.teleportplugin.TeleportPlugin
+api-version: 1.18
+commands:
+  29-teleport:
+    description: teleport player
+  29-teleportall:
+    description: teleport all player
