@@ -13,7 +13,6 @@ public class PlayerJoinListeners implements Listener {
         String joinText = "%player_name% &ajoined the server!";
 
         joinText = PlaceholderAPI.setPlaceholders(event.getPlayer(), joinText);
-        System.out.println("joinText: " + joinText);
 
         event.joinMessage(Component.text(joinText));
     }

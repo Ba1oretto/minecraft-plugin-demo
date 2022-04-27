@@ -1,0 +1,7 @@
+name: 27-vanish-plugin
+version: '${version}'
+main: minecraft.demo.vanishplugin.VanishPlugin
+api-version: 1.18
+commands:
+  27-vanish:
+    description: allow you change visibility
