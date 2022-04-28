@@ -1,0 +1,4 @@
+name: 37-launch-pad-plugin
+version: '${version}'
+main: minecraft.demo.launchpadplugin.LaunchPadPlugin
+api-version: 1.18

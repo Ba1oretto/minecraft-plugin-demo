@@ -1,0 +1,6 @@
+enable: true
+top-block: HEAVY_WEIGHTED_PRESSURE_PLATE
+under-block: REDSTONE_BLOCK
+y-velocity: 3
+velocity-multiply: 3
+disable-fall-damage: true
