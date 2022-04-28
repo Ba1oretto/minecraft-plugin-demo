@@ -1,0 +1,4 @@
+name: 33-silk-touch-spawners
+version: '${version}'
+main: minecraft.demo.silktouchspawners.SilkTouchSpawners
+api-version: 1.18

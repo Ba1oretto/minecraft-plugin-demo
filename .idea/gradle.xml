@@ -175,6 +175,24 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/33-silk-touch-spawners" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/33-silk-touch-spawners" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/34-tasks-and-scheduling" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/34-tasks-and-scheduling" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
