@@ -1,0 +1,7 @@
+name: 32-custom-events
+version: '${version}'
+main: minecraft.demo.customevents.CustomEvents
+api-version: 1.18
+commands:
+  32-gameover:
+    description: end a game with a winner and loser
