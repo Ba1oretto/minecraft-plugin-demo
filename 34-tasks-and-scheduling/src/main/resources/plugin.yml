@@ -1,0 +1,4 @@
+name: 34-tasks-and-scheduling
+version: '${version}'
+main: minecraft.demo.tasksandscheduling.TasksAndScheduling
+api-version: 1.18
