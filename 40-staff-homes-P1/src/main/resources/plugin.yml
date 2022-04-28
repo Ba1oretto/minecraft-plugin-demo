@@ -1,0 +1,4 @@
+name: 40-staff-homes-P1
+version: '${version}'
+main: minecraft.demo.staffhomesp1.StaffHomesP1
+api-version: 1.18

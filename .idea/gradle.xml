@@ -193,6 +193,42 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/35-always-day-and-clear-weather" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/35-always-day-and-clear-weather" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/36-motd-plugin" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/36-motd-plugin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/37-launch-pad-plugin" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/37-launch-pad-plugin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/40-staff-homes-P1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/40-staff-homes-P1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />

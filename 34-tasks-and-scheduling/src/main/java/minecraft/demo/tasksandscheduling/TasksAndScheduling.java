@@ -9,7 +9,7 @@ public final class TasksAndScheduling extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        BukkitTask coolTask = new CoolTask(this, 5).runTaskTimer(this, 0L, 40L);
+        BukkitTask coolTask = new CoolTask(5).runTaskTimer(this, 0L, 40L);
         new BukkitRunnable() {
             @Override
             public void run() {
