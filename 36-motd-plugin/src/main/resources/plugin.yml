@@ -1,0 +1,4 @@
+name: 36-motd-plugin
+version: '${version}'
+main: minecraft.demo.motdplugin.MotdPlugin
+api-version: 1.18

@@ -1,0 +1,7 @@
+vanilla-world: 'world'
+motd: true
+motd-message:
+  - '&d&o-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
+  - '&aWelcome to the &c&lHomeward &eJourney'
+  - '&aSubscribe: &9https://fantang.cc/'
+  - '&d&o-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
