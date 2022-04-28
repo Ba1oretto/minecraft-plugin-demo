@@ -1,0 +1,4 @@
+name: 35-always-day-and-clear-weather
+version: '${version}'
+main: minecraft.demo.alwaysdayandclearweather.AlwaysDayAndClearWeather
+api-version: 1.18
