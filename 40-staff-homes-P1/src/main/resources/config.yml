@@ -1,0 +1,8 @@
+enable: true
+message:
+  - '&7=============&aStaff&eHome &7by &9baioretto&7============='
+  - '&6/staffhome set &7- &9Set a Temporary Home'
+  - '&6/staffhome return &7- &9Return to Home and Remove it'
+  - '&6/staffhome <name> &7- &9Teleport to a temporary home'
+  - '&6/staffhome reload &7- &9Reload the configuration'
+  - '&7=============================================='

@@ -5,8 +5,6 @@
       <module name="25-using-APIs-(plugin-dependencies)" target="17" />
       <module name="25-using-APIs-(plugin-dependencies).main" target="17" />
       <module name="25-using-APIs-(plugin-dependencies).test" target="17" />
-      <module name="40-staff-homes-P1.main" target="17" />
-      <module name="40-staff-homes-P1.test" target="17" />
       <module name="9-5-spawn-plugin" target="17" />
       <module name="9-5-spawn-plugin.main" target="17" />
       <module name="9-5-spawn-plugin.test" target="17" />

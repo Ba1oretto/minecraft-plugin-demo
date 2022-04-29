@@ -39,7 +39,7 @@
     <file type="web" url="file://$PROJECT_DIR$/9z-spawn-plugin" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
+    <output url="file://O:/Server/plugin-server-1.18.2/plugins" />
   </component>
   <component name="ProjectType">
     <option name="id" value="jpab" />
