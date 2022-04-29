@@ -1,0 +1,4 @@
+name: 41-staff-home-p2
+version: '${version}'
+main: minecraft.demo.staffhomep2.StaffHomeP2
+api-version: 1.18
