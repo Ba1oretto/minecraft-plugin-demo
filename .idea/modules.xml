@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/41-staff-home-p2/41-staff-home-p2.iml" filepath="$PROJECT_DIR$/41-staff-home-p2/41-staff-home-p2.iml" />
       <module fileurl="file://$PROJECT_DIR$/minecraft-plugin-demo.iml" filepath="$PROJECT_DIR$/minecraft-plugin-demo.iml" />
     </modules>
   </component>

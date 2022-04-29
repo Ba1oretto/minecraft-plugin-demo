@@ -1,0 +1,7 @@
+name: 42-scoreboards
+version: '${version}'
+main: minecraft.demo.scoreboards.Scoreboards
+api-version: 1.18
+commands:
+  42-scoreboard:
+    description: new a scoreboard
