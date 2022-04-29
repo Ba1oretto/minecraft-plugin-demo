@@ -7,7 +7,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerCommandPreprocessEvent;
 
-public record CommandListeners(CustomUtils customUtils) implements Listener {
+public record ReloadCommandListener(CustomUtils customUtils) implements Listener {
     @EventHandler
     public void onPlayerCommand(PlayerCommandPreprocessEvent event) {
         if (event.getMessage().startsWith("/reload")) {

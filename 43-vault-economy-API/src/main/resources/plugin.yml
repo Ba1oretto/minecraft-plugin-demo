@@ -1,0 +1,4 @@
+name: 43-vault-economy-API
+version: '${version}'
+main: minecraft.demo.vaulteconomyapi.VaultEconomyAPI
+api-version: 1.18
