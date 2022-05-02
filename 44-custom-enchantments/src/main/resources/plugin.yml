@@ -1,0 +1,4 @@
+name: 44-custom-enchantments
+version: '${version}'
+main: minecraft.demo.customenchantments.CustomEnchantments
+api-version: 1.18
