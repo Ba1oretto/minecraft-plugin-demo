@@ -1,0 +1,7 @@
+name: 55-menu-manager-system
+version: '${version}'
+main: minecraft.demo.menumanagersystem.MenuManagerSystem
+api-version: 1.18
+commands:
+  suicide:
+    description: Kill yourself

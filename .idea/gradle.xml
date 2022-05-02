@@ -14,6 +14,15 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/0-wolfy-utilities" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/0-wolfy-utilities" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/10-inventories-and-items" />
         <option name="modules">
           <set>
@@ -252,6 +261,42 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/43-vault-economy-API" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/44-custom-enchantments" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/44-custom-enchantments" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/52-command-managers" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/52-command-managers" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/54-tab-completion-with-commands" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/54-tab-completion-with-commands" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/55-menu-manager-system" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/55-menu-manager-system" />
           </set>
         </option>
       </GradleProjectSettings>
