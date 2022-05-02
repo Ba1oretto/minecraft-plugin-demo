@@ -1,0 +1,7 @@
+name: 52-command-managers
+version: '${version}'
+main: minecraft.demo.commandmanagers.CommandManagers
+api-version: 1.18
+commands:
+  prank:
+    description: prank
