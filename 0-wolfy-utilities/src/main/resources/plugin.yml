@@ -1,0 +1,9 @@
+name: 0-wolfy-utilities
+version: '${version}'
+main: minecraft.demo.wolfyutilities.WolfyUtils
+api-version: 1.18
+commands:
+  wu-open:
+    description: open a gui
+depend:
+  - WolfyUtilities
