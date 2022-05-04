@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="minecraft" name="Minecraft">
       <configuration>
@@ -9,5 +9,39 @@
         </autoDetectTypes>
       </configuration>
     </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../52-command-managers/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../52-command-managers/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../52-command-managers/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../52-command-managers/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.papermc.paper:paper-api:1.18.1-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.md-5:bungeecord-chat:1.16-R0.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:guava:31.0.1-jre" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.kyori:adventure-text-serializer-legacy:4.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.kyori:adventure-text-serializer-plain:4.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.kyori:adventure-api:4.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.kyori:adventure-text-serializer-gson:4.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.gson:gson:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.yaml:snakeyaml:1.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: it.unimi.dsi:fastutil:8.5.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.logging.log4j:log4j-api:2.17.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:slf4j-api:1.8.0-beta4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.checkerframework:checker-qual:3.21.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.errorprone:error_prone_annotations:2.7.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.kyori:adventure-key:4.9.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.kyori:examination-string:1.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.kyori:examination-api:1.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains:annotations:22.0.0" level="project" />
   </component>
 </module>
